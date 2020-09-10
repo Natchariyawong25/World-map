@@ -9,4 +9,4 @@
 ## World map in 2017
 >
 # World map in 2020 - 2021
-> ![img](/UI/Homebeforelogin.png)
+<img src="Homebeforelogin.png" alt="Home" width="200"/>
