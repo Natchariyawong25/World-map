@@ -9,6 +9,8 @@
 ## World map in 2017
 >
 # World map in 2020 - 2021
-<p align="center">
-  <img src="/UI/Homebeforelogin.png" alt="Home" width="300"/>
-</p>
+
+> <p align="center">
+> <img src="/UI/Homebeforelogin.png" alt="Home" width="300"/>
+> ภาพหน้าจอเเสดง หน้า Home ของเว็บไซต์
+> </p>
