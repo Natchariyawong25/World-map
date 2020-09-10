@@ -9,4 +9,4 @@
 ## World map in 2017
 >
 # World map in 2020 - 2021
-> ![img](/UI/Homebeforelogin.png style="width:400px;height:300px;")
+> ![img](/UI/Homebeforelogin.png =400x300)
