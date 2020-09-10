@@ -9,6 +9,6 @@
 ## World map in 2017
 >
 # World map in 2020 - 2021
-<div style="text-align:center">
+<p align="center">
   <img src="/UI/Homebeforelogin.png" alt="Home" width="300"/>
-</div>
+</p>
