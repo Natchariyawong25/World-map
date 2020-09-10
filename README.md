@@ -13,4 +13,3 @@
 > <p align="center">
 > <img src="/UI/Homebeforelogin.png" alt="Home" width="300"/>
 > </p>
-> --ภาพหน้าจอเเสดง หน้า Home ของเว็บไซต์
