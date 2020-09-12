@@ -10,7 +10,5 @@
 >
 # World map in 2020 - 2021
 
-> <p align="center">
-> <img src="/UI/Homebeforelogin.png" alt="Home" width="300"/>
-  <p>Homepage(Normal theme)</p>
-> </p>
+> <p align="center"><img src="/UI/Homebeforelogin.png" alt="Home" width="300"/></p>
+> <p> Homepage(Normal theme)</p>
