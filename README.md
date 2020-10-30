@@ -10,5 +10,5 @@
 >
 # World map in 2020 - 2021
 
-> <p align="center"><img src="/UI/Homebeforelogin.png" alt="Home" width="300"/></p>
-> <p align="center"> Homepage </p>
+> <p align="center"> "Coming soon..."</p>
+> <p align="center"> ... </p>
