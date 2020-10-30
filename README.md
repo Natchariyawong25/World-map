@@ -8,5 +8,5 @@
 >
 # World map in 2020 - 2021
 
-> <p align="center"> "...Coming soon..."</p>
+<p align="center"> "...Coming soon..."</p>
 
