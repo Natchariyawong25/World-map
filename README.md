@@ -6,9 +6,7 @@
 ซึ่งจะ advance ยังไงต้องติดตามใน โปรเจ็ค World map ...
 >
 >
-## World map in 2017
->
 # World map in 2020 - 2021
 
-> <p align="center"> "Coming soon..."</p>
-> <p align="center"> ... </p>
+> <p align="center"> "...Coming soon..."</p>
+
